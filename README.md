@@ -2,7 +2,7 @@
 Randoop example for Software analysis and testing
 
 the .java files are some libraries I used for testing the tool.
-Randoop pulled up over 600 errors on them and I manually fix them (most of them are overlapping issues i.e. you solve 1 and you might solve 100)
+Randoop pulled up over 600 errors on them and I manually fix them (most of them are overlapping issues i.e. you solve 1 and you might solve 100). What you see are the already fixed files so randoop might not find any new Unit tests that fail, I put the not fixed files in the FilesWithErrors folder.
 
 ## Steps to run the example:
 
